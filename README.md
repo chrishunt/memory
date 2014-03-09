@@ -1,7 +1,10 @@
-# Playing Cards
+# Memory Associations
+
+## Playing Cards
 
 **P**erson, **A**ction, **O**bject associations for playing cards (PAO). Using
-this technique, we can compress three cards into a single image.
+this technique, we can compress three cards into a single image. A shuffled
+deck of cards takes 18 mental locations to memorize.
 
 | Card           | Person                | Action                             | Thing                     |
 | -------------- | --------------------- | ---------------------------------- | ------------------------- |
