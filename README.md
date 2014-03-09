@@ -30,7 +30,7 @@ deck of cards takes 18 mental locations to memorize.
 | Hearts 7       | Albert Einstein       | travelling at light speed with     | a beam of light           |
 | Hearts 6       | Taylor Swift          | strumming                          | a guitar                  |
 | Hearts 5       | Julian Assange        | vanishing in                       | a puff of smoke           |
-| Hearts 4       | Scarlett Johansson    | getting drunk with                 | Me                        |
+| Hearts 4       | Scarlett Johansson    | getting drunk with                 | me                        |
 | Hearts 3       | Tom Hanks             | running like Forest Gump through   | the woods                 |
 | Hearts 2       | FloJo                 | placing on her neck                | a gold metal              |
 | Hearts Ace     | Arnold Schwarzenegger | bench pressing                     | a barbell                 |
