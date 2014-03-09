@@ -6,7 +6,7 @@
 this technique, we can compress three cards into a single image. A shuffled
 deck of cards takes 18 mental locations to memorize.
 
-| Card           | Person                | Action                             | Thing                     |
+| Card           | Person                | Action                             | Object                    |
 | -------------- | --------------------- | ---------------------------------- | ------------------------- |
 | Diamonds King  | Prince William        | riding                             | a horse                   |
 | Diamonds Queen | Princess Kate         | pouring                            | a cup of tea              |
