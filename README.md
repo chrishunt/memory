@@ -57,6 +57,6 @@ deck of cards takes 18 mental locations to memorize.
 | :spades: **8**    | Naomi Campbell        | smacking a chambermaid with        | a handbag                 |
 | :spades: **9**    | Tim Ferriss           | spending four hours thinking about | nothing                   |
 | :spades: **10**   | Sarah Palin           | rifle-shooting                     | a moose                   |
-| :spades: **Q**    | Victoria Beckham      | applying lipstick in front of      | a mirror                  |
 | :spades: **J**    | The Dalai Lama        | praying to                         | a Buddha                  |
+| :spades: **Q**    | Victoria Beckham      | applying lipstick in front of      | a mirror                  |
 | :spades: **K**    | David Beckham         | kicking                            | a football                |
