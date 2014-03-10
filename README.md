@@ -43,7 +43,7 @@ deck of cards takes 18 mental locations to memorize.
 | :clubs: **7**     | Thomas Edison         | screwing in                    | a light bulb             |
 | :clubs: **8**     | Medusa                | turning to stone with a glare  | a statue                 |
 | :clubs: **9**     | Mark Zuckerberg       | poking                         | his dumb hoodie          |
-| :clubs: **10**    | Hillary Clinton       | slapping                       | Monica Lewinsky          |
+| :clubs: **10**    | Hillary Clinton       | waving above her head          | the USA flag             |
 | :clubs: **J**     | Pope John-Paul II     | tearfully forgiving            | a random mugger          |
 | :clubs: **Q**     | Beyoncé               | twerking                       | a colorfully lit stage   |
 | :clubs: **K**     | Jay-Z                 | rapping into                   | a giant microphone       |
