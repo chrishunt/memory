@@ -36,7 +36,7 @@ deck of cards takes 18 mental locations to memorize.
 | :diamonds: **K**  | Prince William        | riding                         | a horse                  |
 | :clubs: **A**     | Mike Tyson            | punching                       | with red boxing glove    |
 | :clubs: **2**     | The Williams Sisters  | lifting into the air           | the Wimbledon trophy     |
-| :clubs: **3**     | Sylvester Stallone    | stabbing a person              | with a giant knife       |
+| :clubs: **3**     | Sylvester Stallone    | shooting from the hip          | a giant machine gun      |
 | :clubs: **4**     | Angelina Jolie        | karate kicking                 | an ancient tomb          |
 | :clubs: **5**     | Hitler                | goose-stepping into            | a bunker                 |
 | :clubs: **6**     | Tonya Harding         | ice skating                    | with white ice skates    |
