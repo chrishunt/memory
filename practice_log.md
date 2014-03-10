@@ -4,6 +4,12 @@
 
 Practice on a shuffled deck of cards.
 
+### Memorize Scrambled Deck
+
+| Date       | Total Time | Memorize Time | Recall Time |
+| ---------- | ---------- | ------------- | ----------- |
+| 2014/03/10 | 35 minutes | 23 minutes    | 12 minutes  |
+
 ### Association Review
 
 Practice association for every card in a shuffled deck. No recall necessary.
