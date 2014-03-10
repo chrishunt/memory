@@ -10,12 +10,12 @@ deck of cards takes 18 mental locations to memorize.
 | ----------------- | --------------------- | ---------------------------------- | ------------------------- |
 | :hearts: **A**    | Arnold Schwarzenegger | bench pressing                     | a barbell                 |
 | :hearts: **2**    | FloJo                 | placing on her neck                | a gold metal              |
-| :hearts: **3**    | Tom Hanks             | running like Forest Gump through   | the woods                 |
-| :hearts: **4**    | Scarlett Johansson    | getting drunk with                 | me                        |
+| :hearts: **3**    | Tom Hanks             | sitting                            | with a box of chocolates  |
+| :hearts: **4**    | Scarlett Johansson    | getting drunk with                 | someone                   |
 | :hearts: **5**    | Julian Assange        | vanishing in                       | a puff of smoke           |
 | :hearts: **6**    | Taylor Swift          | strumming                          | a guitar                  |
-| :hearts: **7**    | Albert Einstein       | travelling at light speed with     | a beam of light           |
-| :hearts: **8**    | Pamela Anderson       | saving                             | a drowning child          |
+| :hearts: **7**    | Albert Einstein       | travelling at light speed with     | a shinny star             |
+| :hearts: **8**    | Pamela Anderson       | diving into water to save          | a drowning child          |
 | :hearts: **9**    | Steve Jobs            | taking LSD and inventing           | the iPad                  |
 | :hearts: **10**   | JK Rowling            | writing a story about              | Harry Potter              |
 | :hearts: **J**    | Jesus Christ          | walking on                         | a lake                    |
@@ -24,28 +24,28 @@ deck of cards takes 18 mental locations to memorize.
 | :diamonds: **A**  | Michael Jordan        | slam-dunking                       | a basketball              |
 | :diamonds: **2**  | Anna Kournikova       | sunbathing on top of               | a red towel               |
 | :diamonds: **3**  | George Clooney        | dealing                            | a deck of cards           |
-| :diamonds: **4**  | Sandra Bullock        | floating                           | in a space suit           |
+| :diamonds: **4**  | Sandra Bullock        | floating without gravity           | in a space suit           |
 | :diamonds: **5**  | Joseph Stalin         | smoking                            | a pipe                    |
 | :diamonds: **6**  | Madonna               | dancing in                         | a pointy top              |
 | :diamonds: **7**  | Isaac Newton          | getting hit on the head by         | an apple                  |
-| :diamonds: **8**  | Marilyn Monroe        | ‘s dress ballooning up over        | a subway vent             |
-| :diamonds: **9**  | Bill Gates            | typing quickly on                  | a blue-screen PC          |
+| :diamonds: **8**  | Marilyn Monroe        | dress blowing up over              | a subway vent             |
+| :diamonds: **9**  | Bill Gates            | typing furiously on                | a blue-screened PC        |
 | :diamonds: **10** | Oprah Winfrey         | interviewing on                    | a couch                   |
 | :diamonds: **J**  | Zeus                  | throwing                           | a lightening bolt         |
-| :diamonds: **Q**  | Princess Kate         | pouring                            | a cup of tea              |
+| :diamonds: **Q**  | Princess Kate         | serving delicately                 | a pot of tea              |
 | :diamonds: **K**  | Prince William        | riding                             | a horse                   |
-| :clubs: **A**     | Mike Tyson            | biting                             | a person's ear            |
+| :clubs: **A**     | Mike Tyson            | punching                           | with red boxing glove     |
 | :clubs: **2**     | The Williams Sisters  | lifting into the air               | the Wimbledon trophy      |
-| :clubs: **3**     | Johnny Depp           | making piratical noises with       | a pirate ship             |
+| :clubs: **3**     | Sylvester Stallone    | stabbing a person                  | with a giant knife        |
 | :clubs: **4**     | Angelina Jolie        | karate kicking                     | an ancient tomb           |
 | :clubs: **5**     | Hitler                | goose-stepping into                | a bunker                  |
-| :clubs: **6**     | Rihanna               | holding an umbrella in             | a rain storm              |
-| :clubs: **7**     | Galileo               | looking through a telescope at     | the moon                  |
-| :clubs: **8**     | Medusa                | turning to stone with an icy glare | a statue                  |
-| :clubs: **9**     | Mark Zuckerberg       | unfriending                        | his (or her) best friend  |
+| :clubs: **6**     | Tonya Harding         | ice skating                        | with white ice skates     |
+| :clubs: **7**     | Thomas Edison         | screwing in                        | a light bulb              |
+| :clubs: **8**     | Medusa                | turning to stone with a glare      | a statue                  |
+| :clubs: **9**     | Mark Zuckerberg       | poking                             | his dumb hoodie           |
 | :clubs: **10**    | Hillary Clinton       | slapping                           | Monica Lewinsky           |
-| :clubs: **J**     | Pope John-Paul II     | tearfully forgiving                | the man who just shot him |
-| :clubs: **Q**     | Beyoncé               | power-dancing on                   | a beach                   |
+| :clubs: **J**     | Pope John-Paul II     | tearfully forgiving                | a random mugger           |
+| :clubs: **Q**     | Beyoncé               | twerking                           | a colorfully lit stage    |
 | :clubs: **K**     | Jay-Z                 | rapping into                       | a giant microphone        |
 | :spades: **A**    | Usain Bolt            | running ridiculously fast after    | a cheetah                 |
 | :spades: **2**    | Annika Sorenstam      | driving                            | a golf ball               |
