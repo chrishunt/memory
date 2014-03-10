@@ -10,7 +10,7 @@ deck of cards takes 18 mental locations to memorize.
 | ----------------- | --------------------- | ------------------------------ | ------------------------ |
 | :hearts: **A**    | Arnold Schwarzenegger | bench pressing                 | a barbell                |
 | :hearts: **2**    | FloJo                 | placing on her neck            | a gold metal             |
-| :hearts: **3**    | Tom Hanks             | sitting                        | with a box of chocolates |
+| :hearts: **3**    | Tom Hanks             | running with a bum leg         | through some trees       |
 | :hearts: **4**    | Scarlett Johansson    | getting drunk with             | someone                  |
 | :hearts: **5**    | Julian Assange        | vanishing in                   | a puff of smoke          |
 | :hearts: **6**    | Taylor Swift          | strumming                      | a guitar                 |
