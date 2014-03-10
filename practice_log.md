@@ -11,4 +11,5 @@ This is just to make association faster.
 
 | Date       | Total Time | Card Time  | Errors |
 | ---------- | ---------- | ---------- | ------ |
+| 2014/03/10 | 16 minutes | 18 seconds | 0      |
 | 2014/03/10 | 25 minutes | 28 seconds | 2      |
