@@ -8,6 +8,7 @@ Practice on a shuffled deck of cards.
 
 | Date       | Total Time | Memorize Time | Recall Time |
 | ---------- | ---------- | ------------- | ----------- |
+| 2014/03/10 | 36 minutes | 16 minutes    | 20 minutes  |
 | 2014/03/10 | 35 minutes | 23 minutes    | 12 minutes  |
 
 ### Association Review
