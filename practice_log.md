@@ -24,5 +24,7 @@ This is just to make association faster.
 
 | Date       | Total Time | Card Time  |
 | ---------- | ---------- | ---------- |
-| 2014/03/10 | 16 minutes | 18 seconds |
-| 2014/03/10 | 25 minutes | 28 seconds |
+| 2014/03/14 | 2:35       | 0:03       |
+| 2014/03/14 | 3:24       | 0:04       |
+| 2014/03/10 | 16:00      | 0:18       |
+| 2014/03/10 | 25:00      | 0:28       |
