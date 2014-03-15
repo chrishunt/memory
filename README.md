@@ -60,3 +60,16 @@ deck of cards takes 18 mental locations to memorize.
 | :spades: **J**    | The Dalai Lama        | praying to                     | a Buddha                 |
 | :spades: **Q**    | Victoria Beckham      | applying lipstick in front of  | a mirror                 |
 | :spades: **K**    | David Beckham         | kicking                        | a football               |
+
+| - | 0                     | 1              | 2             | 3                  | 4               | 5               | 6                 | 7                    | 8                  | 9              |
+| - | --------------------- | -------------- | ------------- | ------------------ | --------------- | --------------- | ----------------- | -------------------- | ------------------ | -------------- |
+| 0 | Arnold Schwarzenegger | FloJo          | Tom Hanks     | Scarlett Johansson | Julian Assange  | Taylor Swift    | Albert Einstein   | Pamela Anderson      | Steve Jobs         | JK Rowling     |
+| 1 | Jesus Christ          | Michelle Obama | Barack Obama  | Michael Jordan     | Anna Kournikova | George Clooney  | Sandra Bullock    | Joseph Stalin        | Madonna            | Isaac Newton   |
+| 2 | Marilyn Monroe        | Bill Gates     | Oprah Winfrey | Zeus               | Princess Kate   | Prince William  | Mike Tyson        | The Williams Sisters | Sylvester Stallone | Angelina Jolie |
+| 3 | Hitler                | Tonya Harding  | Thomas Edison | Medusa             | Mark Zuckerberg | Hillary Clinton | Pope John-Paul II | Beyoncé              | Jay-Z              | Usain Bolt     |
+| 4 | Annika Sorenstam      | Ace Ventura    | Tina Fey      | Osama bin Laden    | Lady Gaga       | Bill Nye        | Rosie O'Donnell   | Tim Ferriss          | Sarah Palin        | The Dalai Lama |
+| 5 | Victoria Beckham      | David Beckham  |-|-|-|-|-|-|-|-|
+| 6 |-|-|-|-|-|-|-|-|-|-|
+| 7 |-|-|-|-|-|-|-|-|-|-|
+| 8 |-|-|-|-|-|-|-|-|-|-|
+| 9 |-|-|-|-|-|-|-|-|-|-|
