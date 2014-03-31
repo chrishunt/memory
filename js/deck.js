@@ -1,7 +1,8 @@
 function Deck () {
-  this.index = 0;
+  var suits  = ['D','H','C','S'],
+      values = ['A','2','3','4','5','6','7','8','9','10','J','Q','K'];
 
-  this.newDeck = function(suits, values) {
+  this.new = function() {
     var deck = [];
 
     for (var i = 0; i < values.length; i++) {
@@ -10,11 +11,14 @@ function Deck () {
       }
     }
 
-    return ['back'].concat(this.shuffle(deck));
+    return deck;
   };
 
-  this.shuffle = function(deck) {
-    var counter = deck.length, temp, index;
+  this.shuffle = function() {
+    var deck = this.new(),
+        counter = deck.length,
+        temp,
+        index;
 
     while (counter > 0) {
       index = Math.floor(Math.random() * counter);
@@ -25,7 +29,8 @@ function Deck () {
       deck[index] = temp;
     }
 
-    return deck;
+    this.index = 0;
+    this.deck = ['back'].concat(deck);
   };
 
   this.currentCard = function() {
@@ -54,8 +59,5 @@ function Deck () {
     return Math.floor((100.0 / this.deck.length) * this.index);
   };
 
-  this.deck = this.newDeck(
-    ['D','H','C','S'],
-    ['A','2','3','4','5','6','7','8','9','10','J','Q','K']
-  );
+  this.shuffle();
 }

@@ -1,27 +1,24 @@
-var deck, time, timer, card, progress, cardHammer, timerHammer;
+var deck  = new Deck(),
+    timer = new Timer();
 
-card     = document.getElementById('card');
-time     = document.getElementById('timer');
-progress = document.getElementById('progress');
+var card     = document.getElementById('card'),
+    time     = document.getElementById('timer'),
+    progress = document.getElementById('progress');
 
-timer = new Timer();
+var cardHammer  = Hammer(card, { prevent_default: true }),
+    timerHammer = Hammer(time, { prevent_default: true });
 
-cardHammer = Hammer(card, {
-  prevent_default: true
-});
+function reset(ask) {
+  if(!ask || confirm('Are you sure you want a new deck?')) {
+    timer.reset();
+    time.className = '';
+    time.innerHTML = '00.00';
 
-timerHammer = Hammer(time, {
-  prevent_default: true
-});
+    deck.shuffle();
+    draw(deck.currentCard());
 
-function reset() {
-  timer.reset();
-  time.className = '';
-  time.innerHTML = '00.00';
-
-  deck = new Deck();
-  draw(deck.currentCard());
-  updateProgress();
+    updateProgress();
+  }
 }
 
 function init() {
@@ -51,8 +48,6 @@ function draw(newCard) {
 function updateProgress() {
   progress.style.width = deck.progress() + '%';
 
-  console.log(deck.progress());
-
   if (deck.progress() >= 98) {
     progress.className = 'complete';
   } else {
@@ -60,21 +55,19 @@ function updateProgress() {
   }
 }
 
-cardHammer.on('tap swipeleft', function(e) {
+cardHammer.on('tap swipeleft', function() {
   draw(deck.nextCard());
   updateProgress();
 });
 
-cardHammer.on('swiperight', function(e) {
+cardHammer.on('swiperight', function() {
   draw(deck.previousCard());
   updateProgress();
 });
 
-cardHammer.on('hold', function(e) {
-  if (confirm('Are you sure you want a new deck?')) { reset(); }
-});
+cardHammer.on('hold', function() { reset(true); });
 
-timerHammer.on('tap', function(e) {
+timerHammer.on('tap', function() {
   toggleTimer();
 });
 
@@ -86,7 +79,7 @@ document.onkeypress = function (e) {
     draw(deck.previousCard());
     updateProgress();
   } else if (e.keyCode == 110) { // n
-    if (confirm('Are you sure you want a new deck?')) { reset(); }
+    reset(true);
   } else if (e.keyCode == 32) {  // space
     toggleTimer();
   }
