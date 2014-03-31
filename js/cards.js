@@ -1,55 +1,63 @@
-var cards = {
-  values: ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'],
-  suits:  ['D', 'H', 'C', 'S'],
-  cards:  [],
-  currentCard: 0,
+function Deck () {
+  this.index = 0;
 
-  newDeck: function() {
-    this.cards = [];
+  this.newDeck = function(suits, values) {
+    var deck = [];
 
-    for (var i = 0; i < this.values.length; i++) {
-      for (var j = 0; j < this.suits.length; j++) {
-        this.cards.push(this.values[i] + this.suits[j]);
+    for (var i = 0; i < values.length; i++) {
+      for (var j = 0; j < suits.length; j++) {
+        deck.push(values[i] + suits[j]);
       }
     }
 
-    this.cards = ['back'].concat(this.shuffle(this.cards));
-  },
+    return ['back'].concat(this.shuffle(deck));
+  };
 
-  refresh: function() {
-    this.setCard(this.currentCard, this.cards);
-  },
-
-  nextCard: function() {
-    this.currentCard++;
-    if (this.currentCard > 52) {
-      this.currentCard = 0;
-    }
-  },
-
-  setCard: function(index, cards) {
-    $('#card')[0].src = 'cards/' + cards[index] + '.png';
-  },
-
-  shuffle: function(array) {
-    var counter = array.length, temp, index;
+  this.shuffle = function(deck) {
+    var counter = deck.length, temp, index;
 
     while (counter > 0) {
       index = Math.floor(Math.random() * counter);
       counter--;
 
-      temp = array[counter];
-      array[counter] = array[index];
-      array[index] = temp;
+      temp = deck[counter];
+      deck[counter] = deck[index];
+      deck[index] = temp;
     }
 
-    return array;
-  }
+    return deck;
+  };
+
+  this.currentCard = function() {
+    return this.deck[this.index];
+  };
+
+  this.nextCard = function() {
+    this.index++;
+    if (this.index > 52) {
+      this.index = 0;
+    }
+
+    return this.currentCard();
+  };
+
+  this.previousCard = function() {
+    this.index--;
+    if (this.index < 0) {
+      this.index = 52;
+    }
+
+    return this.currentCard();
+  };
+
+  this.deck = this.newDeck(
+    ['D','H','C','S'],
+    ['A','2','3','4','5','6','7','8','9','10','J','Q','K']
+  );
 }
 
-cards.newDeck();
+var deck = new Deck();
 
 $('#card').on('click', function(e) {
-  cards.nextCard();
-  cards.refresh();
+  $('#card')[0].src = 'cards/' + deck.nextCard() + '.png';
 });
