@@ -50,14 +50,12 @@ function Deck () {
     return this.currentCard();
   };
 
+  this.progress = function() {
+    return Math.floor((100.0 / this.deck.length) * this.index);
+  };
+
   this.deck = this.newDeck(
     ['D','H','C','S'],
     ['A','2','3','4','5','6','7','8','9','10','J','Q','K']
   );
 }
-
-var deck = new Deck();
-
-$('#card').on('click', function(e) {
-  $('#card')[0].src = 'cards/' + deck.nextCard() + '.png';
-});
