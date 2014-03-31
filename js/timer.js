@@ -25,9 +25,9 @@ function Timer() {
 
   this.duration = function() {
     if (this.running()) {
-      total   = (this.now() - this.startTime) / 1000.0;
-      minutes = Math.floor(total / 60.0);
-      seconds = (total - (minutes * 60)).toFixed(2);
+      var total   = (this.now() - this.startTime) / 1000.0,
+          minutes = Math.floor(total / 60.0),
+          seconds = (total - (minutes * 60)).toFixed(2);
 
       if (seconds < 10) { seconds = '0' + seconds; }
 
@@ -36,4 +36,4 @@ function Timer() {
       return '00.00';
     }
   };
-};
+}
